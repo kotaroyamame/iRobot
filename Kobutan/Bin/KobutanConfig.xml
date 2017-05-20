@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KobutanConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Information>
+    <MainWindow>
+      <Size>
+        <Width>800</Width>
+        <Height>600</Height>
+      </Size>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <WindowState>Normal</WindowState>
+    </MainWindow>
+  </Information>
+  <Setting>
+    <Directory>
+      <Commanders>.\Commanders\</Commanders>
+      <ReceivedData>.\ReceivedData\</ReceivedData>
+      <Plugins>.\Plugins\</Plugins>
+      <ProtocolSpecifiations>.\ProtocolSpecifiations\</ProtocolSpecifiations>
+    </Directory>
+  </Setting>
+</KobutanConfig>

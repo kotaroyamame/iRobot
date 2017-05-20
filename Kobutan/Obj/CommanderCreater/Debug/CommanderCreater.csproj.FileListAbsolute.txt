@@ -1,0 +1,13 @@
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Test\TestSpace\CommanderCreater.exe
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Test\TestSpace\CommanderCreater.pdb
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderCreater\Debug\CommanderCreater.csprojResolveAssemblyReference.cache
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderCreater\Debug\CommanderCreater.MainForm.resources
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderCreater\Debug\CommanderCreater.MDI.MdiCommanderExplorer.resources
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderCreater\Debug\CommanderCreater.MDI.MdiEditor.resources
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderCreater\Debug\CommanderCreater.MDI.MdiEditorScreens.EditorScreen.resources
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderCreater\Debug\CommanderCreater.MDI.MdiEditorScreens.PropertyEditor.resources
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderCreater\Debug\CommanderCreater.MDI.MdiEditorScreens.ScriptEditor.resources
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderCreater\Debug\CommanderCreater.Properties.Resources.resources
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderCreater\Debug\CommanderCreater.csproj.GenerateResource.Cache
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderCreater\Debug\CommanderCreater.exe
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderCreater\Debug\CommanderCreater.pdb

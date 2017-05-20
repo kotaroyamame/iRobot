@@ -1,0 +1,9 @@
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Test\TestSpace\Commander.dll
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Test\TestSpace\Commander.pdb
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Commander\Debug\Commander.csprojResolveAssemblyReference.cache
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Commander\Debug\Commander.Screen.CommanderScreen.resources
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Commander\Debug\Commander.Screen.InformationScreen.resources
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Commander\Debug\Commander.Screen.SendScreen.resources
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Commander\Debug\Commander.csproj.GenerateResource.Cache
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Commander\Debug\Commander.dll
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Commander\Debug\Commander.pdb

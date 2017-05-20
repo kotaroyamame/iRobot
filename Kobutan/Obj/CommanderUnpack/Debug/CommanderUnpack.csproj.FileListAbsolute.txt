@@ -1,0 +1,5 @@
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Test\TestSpace\CommanderUnpack.exe
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Test\TestSpace\CommanderUnpack.pdb
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderUnpack\Debug\CommanderUnpack.csprojResolveAssemblyReference.cache
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderUnpack\Debug\CommanderUnpack.exe
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderUnpack\Debug\CommanderUnpack.pdb

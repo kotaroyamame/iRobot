@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<CommanderSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Information>
+    <Name>RoombaSample3</Name>
+    <Version>1.0</Version>
+    <BaseCommander></BaseCommander>
+    <Description>CLEANボタンを押している間LEDが点灯する</Description>
+  </Information>
+  <Communication>
+    <Protocol>Roomba</Protocol>
+    <SendThreadEnable>true</SendThreadEnable>
+    <SendCycle>100</SendCycle>
+  </Communication>
+  <Programming>
+    <Language>CSharp</Language>
+    <WithComplement>true</WithComplement>
+  </Programming>
+</CommanderSetting>

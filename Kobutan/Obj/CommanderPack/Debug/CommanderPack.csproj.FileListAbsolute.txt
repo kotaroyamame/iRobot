@@ -1,0 +1,4 @@
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Test\TestSpace\CommanderPack.exe
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Test\TestSpace\CommanderPack.pdb
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderPack\Debug\CommanderPack.exe
+C:\Users\watanabelab\Desktop\Kobutan\Kobutan\Obj\CommanderPack\Debug\CommanderPack.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<CLIWithComplementImport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImportDlls>
+    <string>Commander.dll</string>
+    <string>Communication.dll</string>
+    <string>System.dll</string>
+    <string>System.Core.dll</string>
+    <string>System.Data.dll</string>
+    <string>System.Data.DataSetExtensions.dll</string>
+    <string>System.Xml.dll</string>
+    <string>System.Xml.Linq.dll</string>
+    <string>Microsoft.CSharp.dll</string>
+  </ImportDlls>
+  <UsingNamespaces>
+    <string>Commander</string>
+    <string>System</string>
+    <string>System.Collections.Generic</string>
+    <string>System.Linq</string>
+    <string>System.Text</string>
+    <string>System.Threading</string>
+    <string>System.Diagnostics</string>
+  </UsingNamespaces>
+</CLIWithComplementImport>

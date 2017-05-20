@@ -1,0 +1,5 @@
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Test\TestSpace\Communication.dll
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Test\TestSpace\Communication.pdb
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Communication\Debug\Communication.csprojResolveAssemblyReference.cache
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Communication\Debug\Communication.dll
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Communication\Debug\Communication.pdb

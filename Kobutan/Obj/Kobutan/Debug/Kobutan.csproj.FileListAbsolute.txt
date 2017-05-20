@@ -1,0 +1,17 @@
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Test\TestSpace\Kobutan.exe
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Test\TestSpace\Kobutan.pdb
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.csprojResolveAssemblyReference.cache
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.MainForm.resources
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.MDI.MdiCommander.resources
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.MDI.MdiInstance.resources
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.MDI.MdiInstanceList.resources
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.MDI.MdiMessage.resources
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.Properties.Resources.resources
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.SubForm.OptionForm.resources
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.SubForm.OptionScreens.OptionScreen.resources
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.SubForm.VersionForm.resources
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.csproj.GenerateResource.Cache
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.exe
+C:\Users\kamijyo\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.pdb
+C:\Users\watanabelab\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.exe
+C:\Users\watanabelab\Dropbox\大学院\Kobutan\Kobutan\Obj\Kobutan\Debug\Kobutan.pdb
