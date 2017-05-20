@@ -5,10 +5,13 @@
  const int X = 1000; // 001
  const int Y = 2000; // 010
 //スピード
- const int SPEED = 30;
+ const int SPEED = 100;
 //旋回時のスピード
 const int TURN_SPEED = 30;
-
+//右旋回時の角度補正
+const int RIGHT_TURN_CORRECTION_FACTOR = 0;
+//左旋回時の角度補正
+const int LEFT_TURN_CORRECTION_FACTOR = 0;
 //直進時の補正　-で右補正、＋で左補正
 const int FORWARD_CORRECTION_FACTOR = 0;
 //距離の補正　-で右補正、＋で左補正
@@ -134,29 +137,9 @@ void DoDrive(int _distance){
     UpdateDistanceAngle();
     //P14
     OutputString("distance: " + _Distance);
-    BaseControl(100, 0);
-    PWMControl(100+(FORWARD_CORRECTION_FACTOR), 100-(FORWARD_CORRECTION_FACTOR));
+    BaseControl(SPEED, 0);
+    PWMControl(SPEED+(FORWARD_CORRECTION_FACTOR), SPEED-(FORWARD_CORRECTION_FACTOR));
     while (_Distance < distance)
-    {
-        Encoder_Update(ref _LeftEnc, LeftEncoder);
-        Encoder_Update(ref _RightEnc, RightEncoder);
-        UpdateDistanceAngle();
-        OutputString("" + _LeftEnc.Value + " " + _RightEnc.Value);
-        OutputString("distance: " + _Distance);
-        Sleep(1);
-    }
-}
-
-void DoturnRight(){
-    Encoder_Initialize(ref _LeftEnc, LeftEncoder);
-    Encoder_Initialize(ref _RightEnc, RightEncoder);
-    Encoder_Update(ref _LeftEnc, LeftEncoder);
-    Encoder_Update(ref _RightEnc, RightEncoder);
-    UpdateDistanceAngle();
-    //P14
-    OutputString("distance: " + _Distance + "angle:" + _Angle);
-    BaseControl(100, 10);
-    while (_Angle < 90)
     {
         Encoder_Update(ref _LeftEnc, LeftEncoder);
         Encoder_Update(ref _RightEnc, RightEncoder);
@@ -173,13 +156,14 @@ void Doturn(int angle){
     Encoder_Update(ref _LeftEnc, LeftEncoder);
     Encoder_Update(ref _RightEnc, RightEncoder);
     UpdateDistanceAngle();
+    SetTurnSpeed(TURN_SPEED);
     //P14
     OutputString("distance: " + _Distance + "angle:" + _Angle);
     //右ターンなら
     if(angle<180)
     {
         BaseControl(100, -1);
-        while (_Angle < angle)
+        while (_Angle < angle+RIGHT_TURN_CORRECTION_FACTOR)
         {
             Encoder_Update(ref _LeftEnc, LeftEncoder);
             Encoder_Update(ref _RightEnc, RightEncoder);
@@ -193,7 +177,7 @@ void Doturn(int angle){
     else
     {
         BaseControl(100, 1);
-        while (Math.Abs(_Angle) < (360-angle))
+        while (Math.Abs(_Angle+LEFT_TURN_CORRECTION_FACTOR) < (360-angle))
         {
             Encoder_Update(ref _LeftEnc, LeftEncoder);
             Encoder_Update(ref _RightEnc, RightEncoder);
